@@ -96,8 +96,5 @@ npm start
 ## 🤝 Contribution
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to improve SMART.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 💡 *"It is easy to be smart with the help of SMART."*
